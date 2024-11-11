@@ -1,2 +1,1 @@
-# Smart-Pet-Detection
-Smart Pet Detection
+# Object Detection Surveillance Software
